@@ -1,0 +1,14 @@
+C:\Users\hp\Documents\semestru 2\II\FashionStylist\FashionStylist\bin\Debug\FashionStylist.exe.config
+C:\Users\hp\Documents\semestru 2\II\FashionStylist\FashionStylist\bin\Debug\FashionStylist.exe
+C:\Users\hp\Documents\semestru 2\II\FashionStylist\FashionStylist\bin\Debug\FashionStylist.pdb
+C:\Users\hp\Documents\semestru 2\II\FashionStylist\FashionStylist\obj\Debug\FashionStylist.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\semestru 2\II\FashionStylist\FashionStylist\obj\Debug\FashionStylist.Form1.resources
+C:\Users\hp\Documents\semestru 2\II\FashionStylist\FashionStylist\obj\Debug\FashionStylist.Properties.Resources.resources
+C:\Users\hp\Documents\semestru 2\II\FashionStylist\FashionStylist\obj\Debug\FashionStylist.csproj.GenerateResource.cache
+C:\Users\hp\Documents\semestru 2\II\FashionStylist\FashionStylist\obj\Debug\FashionStylist.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\semestru 2\II\FashionStylist\FashionStylist\obj\Debug\FashionStylist.exe
+C:\Users\hp\Documents\semestru 2\II\FashionStylist\FashionStylist\obj\Debug\FashionStylist.pdb
+C:\Users\hp\Documents\semestru 2\II\FashionStylist\FashionStylist\obj\Debug\FashionStylist.NewOutfitForm.resources
+C:\Users\hp\Documents\semestru 2\II\FashionStylist\FashionStylist\obj\Debug\FashionStylist.OutfitSelect.resources
+C:\Users\hp\Documents\semestru 2\II\FashionStylist\FashionStylist\obj\Debug\FashionStylist.Loading.resources
+C:\Users\hp\Documents\semestru 2\II\FashionStylist\FashionStylist\obj\Debug\FashionStylist.TheOutfit.resources

@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andrada\\Documents\\semestru 2\\II\\FashionStylist\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45EFF786-EE1A-4646-9593-86E3F4F72A89}|FashionStylist\\FashionStylist.csproj|c:\\users\\andrada\\documents\\semestru 2\\ii\\fashionstylist\\fashionstylist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45EFF786-EE1A-4646-9593-86E3F4F72A89}|FashionStylist\\FashionStylist.csproj|solutionrelative:fashionstylist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45EFF786-EE1A-4646-9593-86E3F4F72A89}|FashionStylist\\FashionStylist.csproj|C:\\Users\\Andrada\\Documents\\semestru 2\\II\\FashionStylist\\fashionstylist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45EFF786-EE1A-4646-9593-86E3F4F72A89}|FashionStylist\\FashionStylist.csproj|solutionrelative:fashionstylist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45EFF786-EE1A-4646-9593-86E3F4F72A89}|FashionStylist\\FashionStylist.csproj|C:\\Users\\Andrada\\Documents\\semestru 2\\II\\FashionStylist\\fashionstylist\\newoutfitform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45EFF786-EE1A-4646-9593-86E3F4F72A89}|FashionStylist\\FashionStylist.csproj|solutionrelative:fashionstylist\\newoutfitform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45EFF786-EE1A-4646-9593-86E3F4F72A89}|FashionStylist\\FashionStylist.csproj|C:\\Users\\Andrada\\Documents\\semestru 2\\II\\FashionStylist\\fashionstylist\\theoutfit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45EFF786-EE1A-4646-9593-86E3F4F72A89}|FashionStylist\\FashionStylist.csproj|solutionrelative:fashionstylist\\theoutfit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45EFF786-EE1A-4646-9593-86E3F4F72A89}|FashionStylist\\FashionStylist.csproj|C:\\Users\\Andrada\\Documents\\semestru 2\\II\\FashionStylist\\fashionstylist\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45EFF786-EE1A-4646-9593-86E3F4F72A89}|FashionStylist\\FashionStylist.csproj|solutionrelative:fashionstylist\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45EFF786-EE1A-4646-9593-86E3F4F72A89}|FashionStylist\\FashionStylist.csproj|C:\\Users\\Andrada\\Documents\\semestru 2\\II\\FashionStylist\\fashionstylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45EFF786-EE1A-4646-9593-86E3F4F72A89}|FashionStylist\\FashionStylist.csproj|solutionrelative:fashionstylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrada\\Documents\\semestru 2\\II\\FashionStylist\\FashionStylist\\Program.cs",
+              "RelativeDocumentMoniker": "FashionStylist\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrada\\Documents\\semestru 2\\II\\FashionStylist\\FashionStylist\\Program.cs",
+              "RelativeToolTip": "FashionStylist\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T15:14:12.32Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Andrada\\Documents\\semestru 2\\II\\FashionStylist\\FashionStylist\\Form1.cs",
+              "RelativeDocumentMoniker": "FashionStylist\\Form1.cs",
+              "ToolTip": "C:\\Users\\Andrada\\Documents\\semestru 2\\II\\FashionStylist\\FashionStylist\\Form1.cs",
+              "RelativeToolTip": "FashionStylist\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T11:27:42.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Loading.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andrada\\Documents\\semestru 2\\II\\FashionStylist\\FashionStylist\\Loading.cs",
+              "RelativeDocumentMoniker": "FashionStylist\\Loading.cs",
+              "ToolTip": "C:\\Users\\Andrada\\Documents\\semestru 2\\II\\FashionStylist\\FashionStylist\\Loading.cs [Design]",
+              "RelativeToolTip": "FashionStylist\\Loading.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T19:16:47.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TheOutfit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andrada\\Documents\\semestru 2\\II\\FashionStylist\\FashionStylist\\TheOutfit.cs",
+              "RelativeDocumentMoniker": "FashionStylist\\TheOutfit.cs",
+              "ToolTip": "C:\\Users\\Andrada\\Documents\\semestru 2\\II\\FashionStylist\\FashionStylist\\TheOutfit.cs [Design]",
+              "RelativeToolTip": "FashionStylist\\TheOutfit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T19:16:31.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewOutfitForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andrada\\Documents\\semestru 2\\II\\FashionStylist\\FashionStylist\\NewOutfitForm.cs",
+              "RelativeDocumentMoniker": "FashionStylist\\NewOutfitForm.cs",
+              "ToolTip": "C:\\Users\\Andrada\\Documents\\semestru 2\\II\\FashionStylist\\FashionStylist\\NewOutfitForm.cs [Design]",
+              "RelativeToolTip": "FashionStylist\\NewOutfitForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T18:35:57.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andrada\\Documents\\semestru 2\\II\\FashionStylist\\FashionStylist\\Form1.cs",
+              "RelativeDocumentMoniker": "FashionStylist\\Form1.cs",
+              "ToolTip": "C:\\Users\\Andrada\\Documents\\semestru 2\\II\\FashionStylist\\FashionStylist\\Form1.cs [Design]*",
+              "RelativeToolTip": "FashionStylist\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T18:35:33.61Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
